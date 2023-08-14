@@ -1,0 +1,5 @@
+Projektant: Michal Kaminski, Gr.6
+Przedmiot:  PK semestr 2 (2023r.)
+Wydzial:      Wydzial AEI, Gliwice
+Studia:         Informatyka SS1
+Nazwa:        Gra w statki
